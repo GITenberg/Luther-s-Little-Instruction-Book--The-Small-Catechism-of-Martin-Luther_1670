@@ -1,0 +1,803 @@
+*The Project Gutenberg Etext of Martin Luther's Small Catechism*
+Translation by Robert E. Smith
+#6 in our series by Martin Luther
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Luther's Little Instruction Book
+(The Small Catechism of Martin Luther)
+
+Translation by Robert E. Smith
+
+March, 1999  [Etext #1670]
+
+
+*The Project Gutenberg Etext of Martin Luther's Small Catechism*
+******This file should be named smlct10.txt or smlct10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, smlct11.txt
+VERSIONS based on separate sources get new LETTER, smlct10a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we do NOT keep these books
+in compliance with any particular paper edition, usually otherwise.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Luther's Little Instruction Book
+(The Small Catechism of Martin Luther)
+Translation by Robert E. Smith
+May 22, 1994
+Version 1.1 -- December 22, 1994
+PW# 001-003-002Ea
+
+
+
+
+
+I.
+The Ten Commandments: The Simple Way a Father Should Present
+Them to His Household
+
+A.  The First Commandment
+
+You must not have other gods.
+
+Q. What does this mean?
+
+A. We must fear, love, and trust God more than anything else.
+
+B.  The Second Commandment
+
+You must not misuse your God's name.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will not use His name
+to curse, swear, cast a spell, lie or deceive, but will use it to
+call upon Him, pray to Him, praise Him and thank Him in all times
+of trouble.
+
+C.  The Third Commandment
+
+You must keep the Sabbath holy.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will not look down on
+preaching or God's Word, but consider it holy, listen to it
+willingly, and learn it.
+
+D.  The Fourth Commandment
+
+You must honor your father and mother. [So that things will go
+well for you and you will live long on earth].
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will neither look down
+on our parents or superiors nor irritate them, but will honor
+them, serve them, obey them, love them and value them.
+
+E.  The Fifth Commandment
+
+You must not kill.
+
+Q. What does this mean?
+A. We must fear and love God, so that we will neither harm nor
+hurt our neighbor's body, but help him and care for him when he is
+ill.
+
+F.  The Sixth Commandment
+
+You must not commit adultery.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that our words and actions
+will be clean and decent and so that everyone will love and honor
+their spouses.
+
+G.  The Seventh Commandment
+
+You must not steal.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will neither take our
+neighbor's money or property, nor acquire it by fraud or by
+selling him poorly made products, but will help him improve and
+protect his property and career.
+
+H.  The Eighth Commandment
+
+You must not tell lies about your neighbor.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will not deceive by
+lying, betraying, slandering or ruining our neighbor's reputation,
+but will defend him, say good things about him, and see the best
+side of everything he does.
+
+I.  The Ninth Commandment
+
+You must not desire your neighbor's house.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will not attempt to
+trick our neighbor out of his inheritance or house, take it by
+pretending to have a right to it, etc. but help him to keep &
+improve it.
+
+J.  The Tenth Commandment
+
+You must not desire your neighbor's wife, servant, maid, animals
+or anything that belongs to him.
+
+Q. What does this mean?
+
+A. We must fear and love God, so that we will not release his
+cattle, take his employees from him or seduce his wife, but urge
+they to stay and do what they ought to do.
+
+K.  The Conclusion to the Commandments
+
+Q. What does God say to us about all these commandments?
+
+A. This is what He says:
+
+``I am the Lord Your God. I am a jealous God. I plague the
+grandchildren and great-grandchildren of those who hate me with
+their ancestor's sin. But I make whole those who love me for a
+thousand generations.''
+
+Q. What does it mean?
+
+A. God threatens to punish everyone who breaks these commandments.
+We should be afraid of His anger because of this and not violate
+such commandments. But He promises grace and all good things to
+those who keep such commandments. Because of this, we, too, should
+love Him, trust Him, and willingly do what His commandments
+require.
+
+
+
+Part Two: The Creed
+
+
+The Creed: The Simple Way a Father Should Present it to His Household
+
+I.  The First Article: On Creation
+
+I believe in God the Almighty Father, Creator of Heaven and Earth.
+
+Q. What does this mean?
+
+A. I believe that God created me, along with all creatures. He gave to
+   me: body and soul, eyes, ears and all the other parts of my body,
+   my mind and all my senses and preserves them as well. He gives me
+   clothing and shoes, food and drink, house and land, wife and
+   children, fields, animals and all I own. Every day He abundantly
+   provides everything I need to nourish this body and life. He
+   protects me against all danger, shields and defends me from all
+   evil.  He does all this because of His pure, fatherly and divine
+   goodness and His mercy, not because I've earned it or deserved it.
+   For all of this, I must thank Him, praise Him, serve Him and obey
+   Him.  Yes, this is true!
+
+II. The Second Article: On Redemption
+
+And in Jesus Christ, His only Son, our Lord, Who was conceived by the
+Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate,
+was crucified, died and was buried, descended to Hell, on the third
+day rose again from the dead, ascended to Heaven and sat down at the
+right hand of God the Almighty Father. From there He will come to
+judge the living and the dead.
+Q. What does this mean?
+A. I believe that Jesus Christ is truly God, born of the Father in
+   eternity and also truly man, born of the Virgin Mary. He is my
+   Lord! He redeemed me, a lost and condemned person, bought and won
+   me from all sins, death and the authority of the Devil. It did not
+   cost Him gold or silver, but His holy, precious blood, His innocent
+   body -- His death! Because of this, I am His very own, will live
+   under Him in His kingdom and serve Him righteously, innocently and
+   blessedly forever, just as He is risen from death, lives and reigns
+   forever. Yes, this is true.
+
+III. The Third Article: On Becoming Holy
+
+I believe in the Holy Spirit, the holy Christian Church, the community
+of the saints, the forgiveness of sins, the resurrection of the body,
+and an everlasting life. Amen.
+
+Q. What does this mean?
+A. I believe that I cannot come to my Lord Jesus Christ by my own
+intelligence or power. But the Holy Spirit called me by the Gospel,
+enlightened me with His gifts, made me holy and kept me in the true
+faith, just as He calls, gathers together, enlightens and makes holy
+the whole Church on earth and keeps it with Jesus in the one, true
+faith. In this Church, He generously forgives each day every sin
+committed by me and by every believer.  On the last day, He will raise
+me and all the dead from the grave. He will give eternal life to me
+and to all who believe in Christ. Yes, this is true!
+
+
+
+
+                 Part Three: The Lord's Prayer
+
+
+
+The Our Father
+
+The Simple Way a Father Should Present it to His Household
+
+
+I.   Introduction
+Our Father, Who is in Heaven.
+
+Q. What does this mean?
+
+A. In this introduction, God invites us to believe that He is our real
+   Father and we are His real children, so that we will pray with
+   trust and complete confidence, in the same way beloved children
+   approach their beloved Father with their requests.
+
+II.  The First Request
+May Your name be holy.
+
+Q. What does this mean?
+
+A. Of course, God's name is holy in and of itself, but by this
+   request, we pray that He will make it holy among us, too.
+
+Q. How does this take place?
+A. When God's Word is taught clearly and purely, and when we live holy
+   lives as God's children based upon it.  Help us, Heavenly Father,
+   to do this! But anyone who teaches and lives by something other
+   than God's Word defiles God's name among us. Protect us from this,
+   Heavenly Father!
+
+III.   The Second Request
+Your Kingdom come.
+
+Q. What does this mean?
+
+A. Truly God's Kingdom comes by itself, without our prayer. But we
+   pray in this request that it come to us as well.
+
+Q. How does this happen?
+A. When the Heavenly Father gives us His Holy Spirit, so that we
+   believe His holy Word by His grace and live godly lives here in
+   this age and there in eternal life.
+
+IV.  The Third Request
+May Your will be accomplished, as it is Heaven, so may it be on Earth.
+
+Q. What does this mean?
+A. Truly, God's good and gracious will is accomplished without our
+   prayer. But we pray in this request that is be accomplished among
+   us as well.
+
+Q. How does this happen?
+A. When God destroys and interferes with every evil will and all evil
+   advice, which will not allow God's Kingdom to come, such as the
+   Devil's will, the world's will and will of our bodily desires. It
+   also happens when God strengthens us by faith and by His Word and
+   keeps living by them faithfully until the end of our lives.  This
+   is His will, good and full of grace.
+
+V.   The Fourth Request
+Give us our daily bread today.
+
+Q. What does this mean?
+A. Truly, God gives daily bread to evil people, even without our
+   prayer. But we pray in this request that He will help us realize
+   this and receive our daily bread with thanksgiving.
+
+Q. What does ``Daily Bread'' mean?
+A. Everything that nourishes our body and meets its needs, such as:
+   Food, drink, clothing, shoes, house, yard, fields, cattle, money,
+   possessions, a devout spouse, devout children, devout employees,
+   devout and faithful rulers, good government, good weather, peace,
+   health, discipline, honor, good friends, faithful neighbors and
+   other things like these.
+
+VI.  The Fifth Request
+And forgive our guilt, as we forgive those guilty of sinning against us.
+
+Q. What does this mean?
+A. We pray in this request that our Heavenly Father will neither pay
+attention to our sins nor refuse requests such as these because of our
+sins and because we are neither worthy nor deserve the things for
+which we pray. Yet He wants to give them all to us by His grace,
+because many times each day we sin and truly deserve only punishment.
+Because God does this, we will, of course, want to forgive from our
+hearts and willingly do good to those who sin against us.
+
+VII.   The Sixth Request
+And lead us not into temptation.
+
+Q. What does this mean?
+A. God tempts no one, of course, but we pray in this request that God
+   will protect us and save us, so that the Devil, the world and our
+   bodily desires will neither deceive us nor seduce us into heresy,
+   despair or other serious shame or vice, and so that we will win and
+   be victorious in the end, even if they attack us.
+
+VIII.   The Seventh Request
+   But set us free from the Evil One.
+
+Q. What does this mean?
+A. We pray in this request, as a summary, that our Father in Heaven
+   will save us from every kind of evil that threatens body, soul,
+   property and honor. We pray that when at last our final hour has
+   come, He will grant us a blessed death, and, in His grace, bring us
+   to Himself from this valley of tears.
+
+IX.     Amen.
+Q. What does this mean?
+A. That I should be certain that such prayers are acceptable to the
+   Father in Heaven and will be granted, that He Himself has commanded
+   us to pray in this way and that He promises to answer us. Amen.
+   Amen. This means: Yes, yes it will happen this way.
+
+
+
+
+
+
+                    Part Four: Holy Baptism
+
+
+                The Sacrament of Holy Baptism:
+  The Simple Way a Father Should Present it to His Household
+
+
+I.
+Q. What is Baptism?
+A. Baptism is not just plain water, but it is water contained
+within God's command and united with God's Word.
+
+Q. Which Word of God is this?
+A. The one which our Lord Christ spoke in the last chapter of Matthew:
+``Go into all the world, teaching all heathen nations, and baptizing
+them in the name of the Father, the Son and of the Holy Spirit.''
+
+
+II.
+
+Q. What does Baptism give? What good is it?
+A. It gives the forgiveness of sins, redeems from death and the
+Devil, gives eternal salvation to all who believe this, just
+as God's words and promises declare.
+
+Q. What are these words and promises of God?
+A. Our Lord Christ spoke one of them in the last chapter of Mark:
+``Whoever believes and is baptized will be saved; but whoever
+does not believe will be damned.''
+
+III.
+
+Q. How can water do such great things?
+A. Water doesn't make these things happen, of course. It is God's
+Word, which is with and in the water. Because, without God's
+Word, the water is plain water and not baptism. But with God's
+Word it is a Baptism, a grace-filled water of life, a bath of
+new birth in the Holy Spirit, as St. Paul said to Titus in the
+third chapter:
+
+``Through this bath of rebirth and renewal of the Holy Spirit,
+which He poured out on us abundantly through Jesus Christ, our
+Savior, that we, justified by the same grace are made heirs
+according to the hope of eternal life. This is a faithful saying.''
+
+IV.
+Q. What is the meaning of such a water Baptism?
+A. It means that the old Adam in us should be drowned by daily
+sorrow and repentance, and die with all sins and evil lusts,
+and, in turn, a new person daily come forth and rise from death again.
+He will live forever before God in righteousness and purity.
+
+Q. Where is this written?
+A. St. Paul says to the Romans in chapter six:
+``We are buried with Christ through Baptism into death, so
+that, in the same way Christ is risen from the dead by the
+glory of the Father, thus also must we walk in a new life.''
+
+
+
+
+
+
+Part Five: Confession
+
+
+How One Should Teach the Uneducated to Confess
+
+
+I.
+Q.   What is confession?
+A.   Confession has two parts:
+
+First, a person admits his sin
+
+Second, a person receives absolution or forgiveness from the confessor,
+as if from God Himself, without doubting it, but believing firmly that
+his sins are forgiven by God in Heaven through it.
+
+II.
+Q. Which sins should people confess?
+
+A. When speaking to God, we should plead guilty to all sins, even
+those we don't know about, just as we do in the ``Our
+Father,'' but when speaking to the confessor, only the sins we
+know about, which we know about and feel in our hearts.
+
+Q. Which are these?
+
+A. Consider here your place in life according to the Ten
+Commandments.  Are you a father?  A mother? A son? A daughter?
+A husband? A wife? A servant? Are you disobedient, unfaithful
+or lazy? Have you hurt anyone with your words or actions? Have
+you stolen, neglected your duty, let things go or injured someone?
+
+
+
+
+
+
+Part Six: The Sacrament of the Altar
+
+
+The Sacrament of the Altar:
+
+The Simple Way a Father Should Present it to his Household
+
+I.
+Q. What is the Sacrament of the Altar?
+
+A. It is the true body and blood of our Lord Jesus Christ under
+bread and wine for us Christians to eat and to drink,
+established by Christ Himself.
+
+II.  Q. Where is that written?
+
+A. The holy apostles Matthew, Mark and Luke and St. Paul write this:
+
+``Our Lord Jesus Christ, in the night on which He was
+betrayed, took bread, gave thanks, broke it, gave it to His
+disciples and said: ``Take! Eat! This is My body, which is
+given for you. Do this to remember Me!'' In the same way He
+also took the cup after supper, gave thanks, gave it to
+them, and said: ``Take and drink from it, all of you! This
+cup is the New Testament in my blood, which is shed for you
+to forgive sins. This do, as often as you drink it, to remember Me!''
+
+III.
+Q. What good does this eating and drinking do?
+
+A. These words tell us: ``Given for you'' and ``Shed for you to
+forgive sins.'' Namely, that the forgiveness of sins, life and
+salvation are given to us through these words in the sacrament.
+Because, where sins are forgiven, there is life and salvation as well.
+
+IV.
+Q. How can physical eating and drinking do such great things?
+
+A. Of course, eating and drinking do not do these things. These
+words, written here, do them: ``given for you'' and ``shed for
+you to forgive sins.'' These words, along with physical eating
+and drinking are the important part of the sacrament. Anyone
+who believes these words has what they say and what they
+record, namely, the forgiveness of sins.
+
+V.
+Q. Who, then, receives such a sacrament in a worthy way?
+
+A. Of course, fasting and other physical preparations are
+excellent disciplines for the body. But anyone who believes
+these words, ``Given for you,'' and ``Shed for you to forgive
+sins,'' is really worthy and well prepared.  But whoever doubts
+or does not believe these words is not worthy and is unprepared,
+because the words, ``for you'' demand a heart that fully believes.
+
+
+
+
+Morning Prayer
+
+
+My Heavenly Father, I thank You, through Jesus Christ, Your
+beloved Son, that You kept me safe from all evil and danger last
+night. Save me, I pray, today as well, from every evil and sin, so
+that all I do and the way that I live will please you. I put
+myself in your care, body and soul and all that I have. Let Your
+holy Angels be with me, so that the evil enemy will not gain power
+over me. Amen.
+
+Evening Prayer
+
+
+My Heavenly Father, I thank You, through Jesus Christ, Your
+beloved Son, that You have protected me, by Your grace. Forgive, I
+pray, all my sins and the evil I have done. Protect me, by Your
+grace, tonight. I put myself in your care, body and soul and all
+that I have. Let Your holy angels be with me, so that the evil
+enemy will not gain power over me. Amen.
+
+
+
+
+This text was translated in 1994 for Project Wittenberg by Robert E.
+Smith and has been placed in the public domain by him. You may freely
+distribute, copy or print this text.  Please direct any comments or
+suggestions to Rev.  Robert E.  Smith of the Walther Library at:
+
+
+Concordia Theological Seminary
+E-mail: bob_smith@ctsfw.edu
+Surface Mail: 6600 N. Clinton St., Ft.  Wayne, IN 46825 USA
+Phone: (219) 452-3149                        Fax: (219) 452-2126
+
+
+
+
+
+End of The Project Gutenberg Etext of Martin Luther's Small Catechism
+
