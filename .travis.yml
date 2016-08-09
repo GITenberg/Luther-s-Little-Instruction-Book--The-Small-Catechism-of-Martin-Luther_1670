@@ -1,0 +1,61 @@
+sudo: required
+dist: trusty
+language: ruby
+
+before_install:
+before_install:
+- gem install asciidoctor -v 1.5.2
+- gem install tilt
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install pillow
+- sudo pip install cssutils
+- sudo pip install docutils
+- sudo pip install roman
+- sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
+script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- sudo pip install -r asciidoctor-htmlbook/gitberg-machine/requirements.txt
+
+- /usr/bin/python -c "from gitenberg import travis; travis.build_epub()"
+- ebook-convert book.epub book.mobi
+- xvfb-run ebook-convert book.epub book.pdf
+branches:
+  only:
+  - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: H1PKRO11Ui5xPkeGprwBCItkgVaFHU4NoEshV0jHKqcO7Cb7KHt/SQZWtXYFbI1UJ+hk/KcIo5k6jKiFaK3yKFU605Ys5X2DylRj2HDZVm3XPG8VhRzgNILAbma6hBatba9oZAMf1uHoiefKvTHxnMLNWwm4q8TBW4dMRLU4hGrxK6r/FxdlNNr91xwX87bGHjd2wDhrNwH38BD19/1tnU/i1c25eY+fzuOceOl6P/e0aAHXBoTiTjM9aS6WvbsF/awM5uVcIZlnnkmdcB04URfNcMY2KZxzPOO0qRHyqFHquwZaSaW3KfwpIFEZFweWpF4iIb05UAMhQQSP3slU3CItZqIaLrM2E6OXeSr/KRA4YXLRPpiQWz9/eSopYlhvOENXqr5qA6ko0wgFZMz4uVoVlFiej7lB/TlDbOqsOo5M3t/Ff6KF+ZZ4UBPIkLbJ5qJSlQUBBSzSvusGKTekIWn0H+aXvdBT562+hpQHeY4a4iAYyRwk5ex3KSIHjgwozGeDiiSwaOBeaeM+IBC4cn7Q9XMnGBCFFF371wP5fvdJ/0rchiiNc8oRP51TpNXoUs4wL+oA8PsKDB1RMC4qiPH/HkJ5eXrjC1LkYzzpzeJ5cxZUFT0lRVJAwyzkwH70zQJv1qINb2zSIXU4Cpm5jT88xHtFNxc69MHMRQKa6jA=
+  file:
+    - book.epub
+    - book.mobi
+    - book.pdf
+  "on":
+    repo: GITenberg/Luther-s-Little-Instruction-Book--The-Small-Catechism-of-Martin-Luther_1670
+addons:
+  apt:
+    packages:
+    - xsltproc
+    - xvfb
+    - calibre
+    - python-pip
+    - git
+    - python-dev
+    - libjpeg-dev
+    - libpng-dev
+    - libfreetype6
+    - libfreetype6-dev
+    - zlib1g-dev
+    - python-lxml
+    - libxml2-dev
+    - libxslt1-dev
+    - tidy
